@@ -772,7 +772,7 @@ if (
 
     <div class="input-area">
       <div class="input-section">
-        <label class="input-label">Developed by @huwamee</label>
+        <label class="input-label">Developed by @Finnapple</label>
         <div class="name-input-wrapper" style="position: relative;">
           <svg class="name-icon" viewBox="0 0 24 24">
             <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 4V6L21 9ZM15 10.26L21 7.26V9.26L15 12.26V10.26ZM12 7C16.42 7 20 8.79 20 11V13C20 15.21 16.42 17 12 17S4 15.21 4 13V11C4 8.79 7.58 7 12 7Z"/>
@@ -1549,3 +1549,4 @@ secretInput.addEventListener('blur', function() {
 </body>
 
 </html>
+
