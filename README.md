@@ -42,7 +42,7 @@
 
 ## 📜 License
 
-MIT License © 2025 huwamee Development Team
+MIT License © 2025 Finnapple Development Team
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
